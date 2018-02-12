@@ -27,12 +27,13 @@ html {
 .banner {
   position: relative;
   color: white;
-  max-height: 24rem;
+  max-height: 24em;
   overflow: hidden;
+  width: 100%;
 }
 
 .banner-content {
   position: absolute;
-  bottom: .2rem;
-  left: 7rem;
+  bottom: 0;
+  left: 0;
 }
